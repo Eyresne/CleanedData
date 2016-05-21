@@ -1,8 +1,8 @@
 
 ## The two dimensions created during cleaning are:
 
-*Activity_label
-*Subject
+* Activity_label
+* Subject
 
 Actitivty_label gives a description of what the user was doing at the time the data was collected. The possible options include WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
@@ -10,6 +10,7 @@ Actitivty_label gives a description of what the user was doing at the time the d
 
 ## Data
 The following dimensions are from the original dataset. The full description is at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones but the relevant section is:
+
 "For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
 - Triaxial Angular velocity from the gyroscope. 
